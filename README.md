@@ -2,6 +2,6 @@
 
 By Maulik Vadodariya
 
-## [Link to the live Project](https://rock-paper-scissor-game.netlify.app/)
+## [Link to the live Project](https://63c7ed986dd9f425ec34134a--cool-bonbon-5e4180.netlify.app/)
 
 - This project is made using core Javascript.
